@@ -1,4 +1,12 @@
 <div align="center">
+  <!-- AUTOMATED CONTRIBUTION SNAKE -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smallprojectscom/smallprojectscom/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smallprojectscom/smallprojectscom/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/smallprojectscom/smallprojectscom/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Wasim%20Akhtar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mathematics%20%26%20Computing%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%" />
 
   <a href="https://git.io/typing-svg">
